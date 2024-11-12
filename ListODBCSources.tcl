@@ -4,7 +4,7 @@
 # A simple program to list ODBC Data Sources by Tcl/Tk, version 0.1
 #
 
-package require Tcl 8.6
+package require Tcl 8.6-
 package require Tk
 package require tablelist
 package require tdbc::odbc
